@@ -1,0 +1,134 @@
+---
+title: Itinerary for Visit to Calvin
+date: last-modified
+---
+
+## Possible additional things to schedule
+
+* Discussion about plans for Calcululs revision at Calvin
+
+* Conversation with Derek Schuurman (could be over a meal)
+    * placeholder in schedule below
+
+* Active learning conversations/demos
+    * Vic Norman/POGIL
+    * Women in STEM group - Crystal B, Jennifer VA (ethical and equity/inclusion aspects of group and classroom management).
+
+* Specific ethics related things (not sure how to include)
+    * Fairness exercise from old Data 303
+    * Introducing Ethics frameworks
+    * Integrated Ethics Labs project
+
+* Calvin athletics events
+* Campus tour (if desired)
+
+# Draft Schedule 
+
+
+## Friday, February 13
+
+* Arrival at GRR, transport to Prince CC
+    * Flight info:
+
+## Saturday, February 14
+
+* Arrival at GRR, transport to Prince CC
+    * Flight info:
+
+* Need to figure plans for lunch/supper
+
+* Possible outings 
+    * Meijer Gardens (open 11-5) 
+    * Art Museum (open 10-4)
+    * Aman Park
+    * Lake Michigan
+
+* Note: RJP is likely not available most of Saturday
+
+## Sunday, February 15
+
+* Possible church attendance
+
+* Need to figure plans for lunch/supper
+
+* Possible outings 
+    * Meijer Gardens (open 11-5) 
+    * Art Museum (open 10-4)
+    * Aman Park
+    * Lake Michigan
+
+
+* Note: RJP has church obligations 9 - 12:30
+
+## Monday, February 16
+
+ <!-- Time --> | <!-- Activity --> 
+:-------------:|:-------------------------------
+ 08:00 - 09:00 | **Breakfast at Prince CC**
+ 09:15 - 10:20 | *Visit PHIL 205 (Ethics)*
+ 10:30 - 10:50 | *Chapel: Sounds of South Asian Worship*
+ 11:00 - 12:05 | *Stat 145 (Intro Biostats)* 
+ 12:15 - 13:20 | **Lunch** in dining hall with TBD
+ 13:30 - 14:35 | **Norms for DS, Stat and Math?** (Fernando Santos)       
+ 14:45 - 15:50 | **open**; *conversation with Derek Schuurman?*
+ 16:00 - 17:30 | *Meeter Center Lecture: Dutch/Christianity in Indonesia*
+ 17:30 - 19:00 | **Dinner** at TBD with TBD
+
+
+
+## Tuesday, February 17
+
+ <!-- Time --> | <!-- Activity --> 
+:-------------:|:-------------------------------
+ 08:00 - 09:40 | Breakfast at Prince CC         
+ 10:20 - 12:00 | DeVries Post-docs (under-represented student groups) <br> or CS 384 (Perspectives) <br> leave early for **lunch** in dining hall with TBD
+ 12:15 - 13:55 | *Visit Stat 245 (Appl. Analytics) <br> or CS 384 (Perspectives)*
+ 14:05 - 15:00 | **Downtime; Seminar prep**
+ 15:05 - 15:50 | **CS Seminar**
+ 17:00 - 18:30 | **Dinner** at TBD with TBD
+ 19:00 - 22:00 | *Banff Film Festival Screening*
+
+
+## Wednesday, February 18
+
+ <!-- Time --> | <!-- Activity --> 
+:-------------:|:-------------------------------
+ 08:00 - 09:00 | Breakfast at Prince CC         
+ 09:15 - 10:20 | **Visit PHIL 205 (Ethics)**
+ 10:30 - 10:50 | *Chapel: Why Believe that Jesus Suffered?*
+ 11:00 - 12:05 | *Stat 145 (Intro Biostats)* <br> or lunch
+ 12:15 - 13:20 | *Data 304 (Visualization)* <br> or lunch
+ 13:30 - 14:35 | *Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration*       
+ 14:45 - 15:50 |     
+ 16:00 - 17:30 | *Meeter Center Lecture: Dutch/Christianity in Indonesia* <br> or 3rd presentation 
+ 17:30 - 19:00 | **Dinner**  at TBD with TBD
+
+## Thursday, February 19
+
+ <!-- Time --> | <!-- Activity --> 
+:-------------:|:-------------------------------
+ 08:00 - 09:40 | Breakfast at Prince CC         
+ 10:20 - 12:00 | Visit **CS 384 (Prespectives)** <br> leave early for **lunch in dining hall** with TBD?
+ 12:15 - 13:55 | **Stat 245: Jim VanderMey** (Ethics in Tech Businesses)
+ 14:10 - 15:00 | **Informal discussion with Jim VanderMey** (with refreshments)<br> prep for colloquium
+ 15:05 - 15:50 | **Math/Stat Colloquium**
+ 17:00 - 18:30 | **Dinner** (with Jim VanderMey?); location TBD
+
+
+## Friday, February 20
+
+ <!-- Time --> | <!-- Activity --> 
+:-------------:|:-------------------------------
+ 08:00 - 09:00 | **Breakfast** at Prince CC         
+ 09:15 - 10:20 | 
+ 10:30 - 10:50 | *Chapel*
+ 11:00 - 12:05 | *Stat 145 (Intro Biostats)* <br> or **lunch**
+ 12:15 - 13:20 | *Data 304 (Visualization)*  <br> or **lunch**      
+ 13:30 - 14:35 |        
+ 14:45 - 15:50 |     
+ 17:30 - 19:00 | **Dinner** at TBD with TBD
+
+## Saturday, February 21
+
+* Departure from GRR
+    * Flight info: 
