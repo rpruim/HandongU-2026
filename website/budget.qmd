@@ -9,9 +9,9 @@ Item                          | funding source
 ------------------------------|-----------------------
 Flights                       | Handong U
 Prince CC (and breakfast)     | DVI
-Lunches on Sat/Sun            |
+Lunches on Sat/Sun            | DVI
 Dinners on Sat/Sun            |
-Lunches Mon-Fri (dining hall) |
+Lunches Mon-Fri (dining hall) | DVI 
 Dinner Monday                 |
 Dinner Tuesday                | SCIO (pending confirmation from Arlene)
 Dinner Wednesday              |
