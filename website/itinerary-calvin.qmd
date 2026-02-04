@@ -1,29 +1,34 @@
 ---
 title: Itinerary for Visit to Calvin
 date: last-modified
+format:
+  html: default
+  typst: 
+    margin:
+      x: 0.7in
+      y: 0.7in
+    fontsize: 11pt
+
 ---
 
 ## Possible additional things to schedule
 
-* Discussion about plans for Calcululs revision at Calvin
-
-* Conversation with Derek Schuurman (could be over a meal)
-    * placeholder in schedule below
-
-* Active learning conversations/demos
+<!-- * Active learning conversations/demos
     * Vic Norman/POGIL
-    * Women in STEM group - Crystal B, Jennifer VA (ethical and equity/inclusion aspects of group and classroom management).
+    * Women in STEM group - Crystal B, Jennifer VA (ethical and equity/inclusion aspects of group and classroom management). -->
 
-* Specific ethics related things (not sure how to include)
+<!-- * Specific ethics related things (not sure how to include)
     * Fairness exercise from old Data 303
     * Introducing Ethics frameworks
-    * Integrated Ethics Labs project
+    * Integrated Ethics Labs project -->
 
 * Calvin athletics events
-* Campus tour (if desired)
 
+* Campus tour 
 
-### People for meals
+* Meetings with President, Dean of STEM, Kevin denDulk
+
+### People to contact regarding meals
 
 * David Wunder
 * Won Lee
@@ -32,57 +37,53 @@ date: last-modified
 * Deb Haarsma (INCHE)
 * Derek Schuurman (is available most dinners)
 * Jim VanderMay (hopefully Thursday night)
+* Rebecca DeYoung
 
-### Other meetings
 
-* meeting with dean/Kevin
-* meeting with Greg (15 minutes)
-
-### MarCom/Calendar, etc.
+<!-- ### MarCom/Calendar, etc.
 
 * how do we get the word out before/after
-* Matt will contact Provost's office and others to get the word out
+* Matt will contact Provost's office and others to get the word out -->
 
 
+{{< pagebreak >}}
 
 # Draft Schedule 
 
 
 ## Friday, February 13
 
-* Arrival at GRR, transport to Prince CC
-    * Flight info: Joseph
-    * Joseph and his wife may spend weekend with friends
-
-
+* Joseph Arrives at GRR (late evening), transport to Prince CC
+    * Flight info: 
 
 ## Saturday, February 14
 
-* Arrival at GRR, transport to Prince CC
+* Hanjin arrives at GRR (22:47), transport to Prince CC
     * Flight info:
 
-* Need to figure plans for lunch/supper
+* Joseph and his wife may spend day with Soyeon Chun
 
-* Possible outings 
+<!-- * Possible outings 
     * Meijer Gardens (open 11-5) 
     * Art Museum (open 10-4)
     * Aman Park
-    * Lake Michigan
+    * Lake Michigan -->
 
 * Note: RJP is likely not available most of Saturday
 
 ## Sunday, February 15
 
-* Possible church attendance
+* church attendance with Soyeon Chun
 
-* Need to figure plans for lunch/supper
+* Lunch: ?
 
-* Possible outings 
+* Dinenr: ?
+
+<!-- * Possible outings 
     * Meijer Gardens (open 11-5) 
     * Art Museum (open 10-4)
     * Aman Park
-    * Lake Michigan
-
+    * Lake Michigan -->
 
 * Note: RJP has church obligations 9 - 12:30
 
@@ -91,9 +92,9 @@ date: last-modified
  <!-- Time --> | <!-- Activity --> 
 :-------------:|:-------------------------------
  08:00 - 09:00 | **Breakfast at Prince CC**
- 09:15 - 10:20 | *Visit PHIL 205 (Ethics)*
- 10:30 - 10:50 | *Chapel: Sounds of South Asian Worship*
- 11:00 - 12:05 | *Stat 145 (Intro Biostats)* 
+ 09:15 - 10:20 | *~~Visit PHIL 205 (Ethics)~~*
+ 10:30 - 10:50 | *~~Chapel: Sounds of South Asian Worship~~*
+ 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* 
  12:15 - 13:20 | **Lunch** in dining hall with TBD
  13:30 - 14:35 | **Norms for DS, Stat and Math?** (Fernando Santos)       
  14:45 - 15:50 | **open**; *conversation with Derek Schuurman?*
@@ -107,8 +108,8 @@ date: last-modified
  <!-- Time --> | <!-- Activity --> 
 :-------------:|:-------------------------------
  08:00 - 09:40 | Breakfast at Prince CC         
- 10:20 - 12:00 | DeVries Post-docs (under-represented student groups) <br> or CS 384 (Perspectives) <br> leave early for **lunch** in dining hall with TBD
- 12:15 - 13:55 | *Visit Stat 245 (Appl. Analytics) <br> or CS 384 (Perspectives)*
+ 10:20 - 12:00 | DeVries Post-docs (underprepared student groups) <br> or CS 384 (Perspectives) <br> leave early for **lunch** in dining hall with TBD
+ 12:15 - 13:55 | **Visit Stat 245 (Appl. Data Analysis)** <br> or CS 384 (Perspectives)
  14:05 - 15:00 | **Downtime; Seminar prep**
  15:05 - 15:50 | **CS Seminar**
  17:00 - 18:30 | **Dinner** at TBD with TBD
@@ -122,18 +123,19 @@ date: last-modified
  08:00 - 09:00 | Breakfast at Prince CC         
  09:15 - 10:20 | **Visit PHIL 205 (Ethics)**
  10:30 - 10:50 | *Chapel: Why Believe that Jesus Suffered?*
- 11:00 - 12:05 | *Stat 145 (Intro Biostats)* <br> or lunch
- 12:15 - 13:20 | *Data 304 (Visualization)* <br> or lunch
- 13:30 - 14:35 | *Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration*       
+ 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* <br> or lunch
+ 12:15 - 13:20 | *~~Data 304 (Visualization)~~* <br> or lunch
+ 13:30 - 14:35 | **Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration**
  14:45 - 15:50 |     
- 16:00 - 17:30 | *Meeter Center Lecture: Dutch/Christianity in Indonesia* <br> or 3rd presentation 
- 17:30 - 19:00 | **Dinner**  at TBD with TBD
+ 16:00 - 17:00 | **Faculty Seminar (Hanjin Lee)**
+ 17:00 - 19:00 | **Dinner** with members of Math/Stat/CS departments (Vos Endowment)
 
 ## Thursday, February 19
 
  <!-- Time --> | <!-- Activity --> 
 :-------------:|:-------------------------------
- 08:00 - 09:40 | Breakfast at Prince CC         
+ 08:00 - 09:00 | Breakfast at Prince CC 
+ 09:30 - 10:15 | **Discussion about Calculus Revisions** (Jocye Chew, Todd Kapitula, Mike Bolt)
  10:20 - 12:00 | Visit **CS 384 (Prespectives)** <br> leave early for **lunch in dining hall** with TBD?
  12:15 - 13:55 | **Stat 245: Jim VanderMey** (Ethics in Tech Businesses)
  14:10 - 15:00 | **Informal discussion with Jim VanderMey** (with refreshments)<br> prep for colloquium
@@ -147,16 +149,20 @@ date: last-modified
 :-------------:|:-------------------------------
  08:00 - 09:00 | **Breakfast** at Prince CC         
  09:15 - 10:20 | 
- 10:30 - 10:50 | *Chapel*
- 11:00 - 12:05 | *Stat 145 (Intro Biostats)* <br> or **lunch**
- 12:15 - 13:20 | *Data 304 (Visualization)*  <br> or **lunch**      
+ 10:30 - 10:50 | **Chapel**
+ 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* <br> or **lunch**
+ 12:15 - 13:20 | *~~Data 304 (Visualization)~~*  <br> or **lunch**      
  13:30 - 14:35 |        
  14:45 - 15:50 | **Debrief and Discussion about trip to Korea**    
  17:30 - 19:00 | **Dinner** at TBD with TBD
 
 ## Saturday, February 21
 
+* TBD: Excursion to Grand Rapids downtown
+* Lunch:
+* Dinner:
+
 ## Sunday, February 22
 
-* Departure from GRR
+* Departure from GRR @ 8am
     * Flight info: 
