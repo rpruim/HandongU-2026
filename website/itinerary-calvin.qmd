@@ -1,5 +1,6 @@
 ---
 title: Itinerary for Visit to Calvin
+subtitle: Joseph Cho and Hanjin Lee, Handong University
 date: last-modified
 format:
   html: default
@@ -11,44 +12,34 @@ format:
 
 ---
 
-## Possible additional things to schedule
 
-<!-- * Active learning conversations/demos
-    * Vic Norman/POGIL
-    * Women in STEM group - Crystal B, Jennifer VA (ethical and equity/inclusion aspects of group and classroom management). -->
-
-<!-- * Specific ethics related things (not sure how to include)
-    * Fairness exercise from old Data 303
-    * Introducing Ethics frameworks
-    * Integrated Ethics Labs project -->
-
-* Calvin athletics events
-
-* Campus tour 
-
-* Meetings with President, Dean of STEM, Kevin denDulk
-
-### People to contact regarding meals
-
-* David Wunder
-* Won Lee
-* Synthia Slagter -- aware of things to do in Handong
-* Korean student org
-* Deb Haarsma (INCHE)
-* Derek Schuurman (is available most dinners)
-* Jim VanderMay (hopefully Thursday night)
-* Rebecca DeYoung
-
-
-<!-- ### MarCom/Calendar, etc.
-
-* how do we get the word out before/after
-* Matt will contact Provost's office and others to get the word out -->
-
-
-{{< pagebreak >}}
 
 # Draft Schedule 
+
+Some notes about the schedule:
+
+1. This is a draft and subject to change. In particular, we 
+are waiting for some input from Joseph Cho and Hangin Lee about 
+their preferences.
+
+2. Items in *italics* are options we can decide about.
+
+3. Items that are ~~struck through~~ are also options, but I'm assuming they won't happen unless I get feedback to the contrary.
+
+3. Items in **bold** are planned, but they can be removed 
+or adjusted as desired.
+
+4. Jim VanderMay is currently scheduled for Thursday mid-day. It is possible that might move to Tuesday. If so, we can swap some things between those two days.
+
+5. Once we confirm a few more details I'll start the process of finding out who is available for various meals.
+
+6. I expect we will have someone from Calvin available to do airport pickup and drop-off. (Detailed flight info would be 
+good so they can monitor the flight status.)
+
+7. There are a couple more things I'm trying to schedule -- I'm hoping on Monday morning.
+
+8. It would be good to get the details about Joseph's and Hanjin's presentations sorted soon so we can publicize them.
+
 
 
 ## Friday, February 13
@@ -85,7 +76,7 @@ format:
     * Aman Park
     * Lake Michigan -->
 
-* Note: RJP has church obligations 9 - 12:30
+* Note: RJP has church obligations 8 - 12:30
 
 ## Monday, February 16
 
@@ -109,11 +100,11 @@ format:
 :-------------:|:-------------------------------
  08:00 - 09:40 | Breakfast at Prince CC         
  10:20 - 12:00 | DeVries Post-docs (underprepared student groups) <br> or CS 384 (Perspectives) <br> leave early for **lunch** in dining hall with TBD
- 12:15 - 13:55 | **Visit Stat 245 (Appl. Data Analysis)** <br> or CS 384 (Perspectives)
- 14:05 - 15:00 | **Downtime; Seminar prep**
+ 12:15 - 13:55 | **Visit Stat 245 (Appl. Data Analysis)** <br> ~~or CS 384 (Perspectives)~~
+ 14:05 - 15:00 | **open; Seminar prep**
  15:05 - 15:50 | **CS Seminar**
  17:00 - 18:30 | **Dinner** at TBD with TBD
- 19:00 - 22:00 | *Banff Film Festival Screening*
+ 19:00 - 22:00 | [*Banff Film Festival Screening*](https://calvin.edu/academics/school-stem/geo/events/banff)
 
 
 ## Wednesday, February 18
@@ -122,7 +113,7 @@ format:
 :-------------:|:-------------------------------
  08:00 - 09:00 | Breakfast at Prince CC         
  09:15 - 10:20 | **Visit PHIL 205 (Ethics)**
- 10:30 - 10:50 | *Chapel: Why Believe that Jesus Suffered?*
+ 10:30 - 10:50 | *~~Chapel: Why Believe that Jesus Suffered?~~*
  11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* <br> or lunch
  12:15 - 13:20 | *~~Data 304 (Visualization)~~* <br> or lunch
  13:30 - 14:35 | **Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration**
@@ -137,7 +128,7 @@ format:
  08:00 - 09:00 | Breakfast at Prince CC 
  09:30 - 10:15 | **Discussion about Calculus Revisions** (Jocye Chew, Todd Kapitula, Mike Bolt)
  10:20 - 12:00 | Visit **CS 384 (Prespectives)** <br> leave early for **lunch in dining hall** with TBD?
- 12:15 - 13:55 | **Stat 245: Jim VanderMey** (Ethics in Tech Businesses)
+ 12:15 - 13:55 | **Stat 245: Jim VanderMey** <br>*Making the Invisible Visible: Ethics, Systems, and the Future We’re Building* In a world increasingly shaped by data, design, and automation, the deepest ethical decisions are often the ones we never see — embedded in architecture, algorithms, and assumptions. In this keynote, Jim VanderMey draws on decades of real-world practice as a technologist and his formation in theology to explore how we can surface these hidden choices, provide ethical leadership in a pluralistic society, and anticipate the long-term consequences of what we build — before they are felt.
  14:10 - 15:00 | **Informal discussion with Jim VanderMey** (with refreshments)<br> prep for colloquium
  15:05 - 15:50 | **Math/Stat Colloquium**
  17:00 - 18:30 | **Dinner** (with Jim VanderMey?); location TBD
@@ -150,15 +141,18 @@ format:
  08:00 - 09:00 | **Breakfast** at Prince CC         
  09:15 - 10:20 | 
  10:30 - 10:50 | **Chapel**
- 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* <br> or **lunch**
- 12:15 - 13:20 | *~~Data 304 (Visualization)~~*  <br> or **lunch**      
+ 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* <br> **open** or **lunch**
+ 12:15 - 13:20 | *~~Data 304 (Visualization)~~*  <br> **open** or **lunch**      
  13:30 - 14:35 |        
  14:45 - 15:50 | **Debrief and Discussion about trip to Korea**    
  17:30 - 19:00 | **Dinner** at TBD with TBD
 
 ## Saturday, February 21
 
-* TBD: Excursion to Grand Rapids downtown
+* Excursion in Grand Rapids area
+    * Grand Rapids Art Museum?
+    * Frederik Meijer Gardens?
+
 * Lunch:
 * Dinner:
 
