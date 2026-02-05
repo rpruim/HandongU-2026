@@ -50,7 +50,10 @@ good so they can monitor the flight status.)
 ## Saturday, February 14
 
 * Hanjin arrives at GRR (22:47), transport to Prince CC
-    * Flight info:
+    * Delta Air Lines DL1711 from St Paul (MSP) 20:20 
+      to Grand Rapids (GRR) 22:47
+
+
 
 * Joseph and his wife may spend day with Soyeon Chun
 
@@ -102,7 +105,7 @@ good so they can monitor the flight status.)
  10:20 - 12:00 | DeVries Post-docs (underprepared student groups) <br> or CS 384 (Perspectives) <br> leave early for **lunch** in dining hall with TBD
  12:15 - 13:55 | **Visit Stat 245 (Appl. Data Analysis)** <br> ~~or CS 384 (Perspectives)~~
  14:05 - 15:00 | 2:00 **Meet President Elzinga**, then open/seminar prep
- 15:05 - 15:50 | **CS Seminar**
+ 15:05 - 15:50 | **CS Seminar: Hanjin Lee**<br>*Values and Ethics in Mathematics in the age of AI*
  17:00 - 18:30 | **Dinner** at TBD with TBD
  19:00 - 22:00 | [*Banff Film Festival Screening*](https://calvin.edu/academics/school-stem/geo/events/banff)
 
@@ -118,7 +121,7 @@ good so they can monitor the flight status.)
  12:15 - 13:20 | *~~Data 304 (Visualization)~~* <br> or lunch
  13:30 - 14:35 | **Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration**
  14:45 - 15:50 |     
- 16:00 - 17:00 | **Faculty Seminar (Hanjin Lee)**
+ 16:00 - 17:00 | **Faculty Seminar: Hanjin Lee** <br>*Ethics in Mathematics: how to teach it at Christian Universities?* <br>As AI advances, the social practice of mathematics faces new ethical challenges. While more math and statistics students are entering the Big Data and AI sectors, they receive little ethical guidance in their formal education. Compared to the established professional ethics courses in engineering and science, mathematics and statistics departments lack similar curricula. This talk explores the ethical dimensions of mathematics and recent scholarly proposals. I will also propose a course design for ethics in mathematics based on a Christian narrative ethics framework.
  17:00 - 19:00 | **Dinner** with members of Math/Stat/CS departments (Vos Endowment)
 
 ## Thursday, February 19
@@ -128,9 +131,9 @@ good so they can monitor the flight status.)
  08:00 - 09:00 | Breakfast at Prince CC 
  09:30 - 10:15 | **Discussion about Calculus Revisions** (Jocye Chew, Todd Kapitula, Mike Bolt)
  10:20 - 12:00 | Visit **CS 384 (Prespectives)** <br> leave early for **lunch in dining hall** with TBD?
- 12:15 - 13:55 | **Stat 245: Jim VanderMey** <br>*Making the Invisible Visible: Ethics, Systems, and the Future We’re Building* In a world increasingly shaped by data, design, and automation, the deepest ethical decisions are often the ones we never see — embedded in architecture, algorithms, and assumptions. In this keynote, Jim VanderMey draws on decades of real-world practice as a technologist and his formation in theology to explore how we can surface these hidden choices, provide ethical leadership in a pluralistic society, and anticipate the long-term consequences of what we build — before they are felt.
+ 12:15 - 13:55 | **Stat 245: Jim VanderMey** <br>*Making the Invisible Visible: Ethics, Systems, and the Future We’re Building* <br>In a world increasingly shaped by data, design, and automation, the deepest ethical decisions are often the ones we never see — embedded in architecture, algorithms, and assumptions. In this keynote, Jim VanderMey draws on decades of real-world practice as a technologist and his formation in theology to explore how we can surface these hidden choices, provide ethical leadership in a pluralistic society, and anticipate the long-term consequences of what we build — before they are felt.
  14:10 - 15:00 | **Informal discussion with Jim VanderMey** (with refreshments)<br> prep for colloquium
- 15:05 - 15:50 | **Math/Stat Colloquium**
+ 15:05 - 15:50 | **Math/Stat Colloquium: Joseph Cho** <br> *Geometry: mathematics you can see* 
  17:00 - 18:30 | **Dinner** (with Jim VanderMey?); location TBD
 
 
@@ -159,4 +162,5 @@ good so they can monitor the flight status.)
 ## Sunday, February 22
 
 * Departure from GRR @ 8am
-    * Flight info: 
+    * Endeavor air DBA DELTA DL5180
+      from GRR 08:00 am to DTW (Detroit) 
