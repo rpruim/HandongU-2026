@@ -94,7 +94,7 @@ good so they can monitor the flight status.)
  14:45 - 15:50 | **open**; *conversation with Derek Schuurman?*
  16:00 - 17:30 | *Meeter Center Lecture: Dutch/Christianity in Indonesia*
  17:30 - 19:00 | **Dinner** at TBD with TBD
-
+: {tbl-colwidths="[20,80]"}
 
 
 ## Tuesday, February 17
@@ -108,7 +108,7 @@ good so they can monitor the flight status.)
  15:05 - 15:50 | **CS Seminar: Hanjin Lee**<br>*Values and Ethics in Mathematics in the age of AI*
  17:00 - 18:30 | **Dinner** at TBD with TBD
  19:00 - 22:00 | [*Banff Film Festival Screening*](https://calvin.edu/academics/school-stem/geo/events/banff)
-
+: {tbl-colwidths="[20,80]"}
 
 ## Wednesday, February 18
 
@@ -123,6 +123,8 @@ good so they can monitor the flight status.)
  14:45 - 15:50 |     
  16:00 - 17:00 | **Faculty Seminar: Hanjin Lee** <br>*Ethics in Mathematics: how to teach it at Christian Universities?* <br>As AI advances, the social practice of mathematics faces new ethical challenges. While more math and statistics students are entering the Big Data and AI sectors, they receive little ethical guidance in their formal education. Compared to the established professional ethics courses in engineering and science, mathematics and statistics departments lack similar curricula. This talk explores the ethical dimensions of mathematics and recent scholarly proposals. I will also propose a course design for ethics in mathematics based on a Christian narrative ethics framework.
  17:00 - 19:00 | **Dinner** with members of Math/Stat/CS departments (Vos Endowment)
+: {tbl-colwidths="[20,80]"}
+
 
 ## Thursday, February 19
 
@@ -135,6 +137,7 @@ good so they can monitor the flight status.)
  14:10 - 15:00 | **Informal discussion with Jim VanderMey** (with refreshments)<br> prep for colloquium
  15:05 - 15:50 | **Math/Stat Colloquium: Joseph Cho** <br> *Geometry: mathematics you can see* 
  17:00 - 18:30 | **Dinner** (with Jim VanderMey?); location TBD
+: {tbl-colwidths="[20,80]"}
 
 
 ## Friday, February 20
@@ -149,6 +152,7 @@ good so they can monitor the flight status.)
  13:30 - 14:35 |        
  14:45 - 15:50 | **Debrief and Discussion about trip to Korea**    
  17:30 - 19:00 | **Dinner** at TBD with TBD
+: {tbl-colwidths="[20,80]"}
 
 ## Saturday, February 21
 
