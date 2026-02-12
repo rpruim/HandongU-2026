@@ -29,16 +29,11 @@ their preferences.
 3. Items in **bold** are planned, but they can be removed 
 or adjusted as desired.
 
-4. Jim VanderMay is currently scheduled for Thursday mid-day. It is possible that might move to Tuesday. If so, we can swap some things between those two days.
+4. Jim VanderMey is currently scheduled for Thursday mid-day. It is possible that might move to Tuesday. If so, we can swap some things between those two days.
 
 5. Once we confirm a few more details I'll start the process of finding out who is available for various meals.
 
-6. I expect we will have someone from Calvin available to do airport pickup and drop-off. (Detailed flight info would be 
-good so they can monitor the flight status.)
-
-7. There are a couple more things I'm trying to schedule -- I'm hoping on Monday morning.
-
-8. It would be good to get the details about Joseph's and Hanjin's presentations sorted soon so we can publicize them.
+6. It would be good to get the details about Joseph's and Hanjin's presentations sorted soon so we can publicize them.
 
 
 
@@ -46,12 +41,14 @@ good so they can monitor the flight status.)
 
 * Joseph Arrives at GRR (late evening), transport to Prince CC
     * Flight info: 
+    * Randy will pick up at airport
 
 ## Saturday, February 14
 
 * Hanjin arrives at GRR (22:47), transport to Prince CC
     * Delta Air Lines DL1711 from St Paul (MSP) 20:20 
       to Grand Rapids (GRR) 22:47
+    * Matt Lundberg will pick up at airport
 
 
 
@@ -89,7 +86,7 @@ good so they can monitor the flight status.)
  09:15 - 10:20 | *~~Visit PHIL 205 (Ethics)~~*
  10:30 - 10:50 | *~~Chapel: Sounds of South Asian Worship~~*
  11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* 
- 12:15 - 13:20 | **Lunch** in dining hall with TBD
+ 12:15 - 13:20 | **Lunch** in dining hall with Deb Haarsma (director of INCHE)
  13:30 - 14:35 | **Norms for DS, Stat and Math?** (Fernando Santos)       
  14:45 - 15:50 | **open**; *conversation with Derek Schuurman?*
  16:00 - 17:30 | *Meeter Center Lecture: Dutch/Christianity in Indonesia*
@@ -102,7 +99,7 @@ good so they can monitor the flight status.)
  <!-- Time --> | <!-- Activity --> 
 :-------------:|:-------------------------------
  08:00 - 09:40 | Breakfast at Prince CC         
- 10:20 - 12:00 | DeVries Post-docs (underprepared student groups) <br> or CS 384 (Perspectives) <br> leave early for **lunch** in dining hall with TBD
+ 10:20 - 12:00 | DeVries Post-docs (underprepared student groups) <br> or CS 384 (Perspectives) <br> leave early for **lunch** in dining hall with Fernando Santos
  12:15 - 13:55 | **Visit Stat 245 (Appl. Data Analysis)** <br> ~~or CS 384 (Perspectives)~~
  14:05 - 15:00 | 2:00 **Meet President Elzinga**, then open/seminar prep
  15:05 - 15:50 | **CS Seminar: Hanjin Lee**<br>*Values and Ethics in Mathematics in the age of AI*
@@ -117,8 +114,8 @@ good so they can monitor the flight status.)
  08:00 - 09:00 | Breakfast at Prince CC         
  09:15 - 10:20 | **Visit PHIL 205 (Ethics)**
  10:30 - 10:50 | *~~Chapel: Why Believe that Jesus Suffered?~~*
- 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* <br> or lunch
- 12:15 - 13:20 | *~~Data 304 (Visualization)~~* <br> or lunch
+ 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* 
+ 12:15 - 13:20 | *~~Data 304 (Visualization)~~* **lunch** 
  13:30 - 14:35 | **Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration**
  14:45 - 15:50 |     
  16:00 - 17:00 | **Faculty Seminar: Hanjin Lee** <br>*Ethics in Mathematics: how to teach it at Christian Universities?* <br>As AI advances, the social practice of mathematics faces new ethical challenges. While more math and statistics students are entering the Big Data and AI sectors, they receive little ethical guidance in their formal education. Compared to the established professional ethics courses in engineering and science, mathematics and statistics departments lack similar curricula. This talk explores the ethical dimensions of mathematics and recent scholarly proposals. I will also propose a course design for ethics in mathematics based on a Christian narrative ethics framework.
@@ -136,7 +133,7 @@ good so they can monitor the flight status.)
  12:15 - 13:55 | **Stat 245: Jim VanderMey** <br>*Making the Invisible Visible: Ethics, Systems, and the Future We’re Building* <br>In a world increasingly shaped by data, design, and automation, the deepest ethical decisions are often the ones we never see — embedded in architecture, algorithms, and assumptions. In this keynote, Jim VanderMey draws on decades of real-world practice as a technologist and his formation in theology to explore how we can surface these hidden choices, provide ethical leadership in a pluralistic society, and anticipate the long-term consequences of what we build — before they are felt.
  14:10 - 15:00 | **Informal discussion with Jim VanderMey** (with refreshments)<br> prep for colloquium
  15:05 - 15:50 | **Math/Stat Colloquium: Joseph Cho** <br> *Geometry: mathematics you can see* 
- 17:00 - 18:30 | **Dinner** (with Jim VanderMey?); location TBD
+ 17:00 - 18:30 | **Dinner** (with Jim VanderMey, Dave Klanderman, Randy Pruim); location TBD
 : {tbl-colwidths="[20,80]"}
 
 
@@ -147,11 +144,11 @@ good so they can monitor the flight status.)
  08:00 - 09:00 | **Breakfast** at Prince CC         
  09:15 - 10:20 | 
  10:30 - 10:50 | **Chapel**
- 11:00 - 12:05 | *~~Stat 145 (Intro Biostats)~~* <br> **open** or **lunch**
- 12:15 - 13:20 | *~~Data 304 (Visualization)~~*  <br> **open** or **lunch**      
+ 11:00 - 12:05 | 
+ 12:15 - 13:20 | **lunch**      
  13:30 - 14:35 |        
  14:45 - 15:50 | **Debrief and Discussion about trip to Korea**    
- 17:30 - 19:00 | **Dinner** at TBD with TBD
+ 17:30 - 19:00 | **Dinner** with Sung Soo Lim
 : {tbl-colwidths="[20,80]"}
 
 ## Saturday, February 21

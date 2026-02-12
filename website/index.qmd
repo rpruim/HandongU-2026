@@ -6,3 +6,4 @@ This site has some information related to a 2026 faculty exchange
 between Handong University in Pohang, South Korea and
 Calvin University in Grand Rapids, MI.
 
+* [Itinerary for Feb 13 - 22](itinerary-calvin.qmd) when Hanjin Lee and Joseph Cho will be visiting Calvin University.

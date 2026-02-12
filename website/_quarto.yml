@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - href: itinerary-calvin.qmd
-        text: Itinerary
+        text: Calvin Itinerary
 
 format:
   html:
