@@ -90,7 +90,7 @@ or adjusted as desired.
  <!-- Time --> | <!-- Activity --> 
 :-------------:|:-------------------------------
  08:00 - 09:00 | Breakfast at Prince CC         
- 09:15 - 10:20 | **Visit PHIL 205 (Ethics)**
+ 09:15 - 10:20 | **Visit PHIL 205 (Ethics)** in HH 337
  10:30 - 10:50 | *~~Chapel: Why Believe that Jesus Suffered?~~*
  11:30 - 12:05 | **lunch** with Kevin Timpe (Philosophy) and Derek Schuurman
  12:15 - 13:20 | **open**
