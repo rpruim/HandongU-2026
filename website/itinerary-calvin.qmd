@@ -94,10 +94,10 @@ or adjusted as desired.
  10:30 - 10:50 | *~~Chapel: Why Believe that Jesus Suffered?~~*
  11:30 - 12:05 | **lunch** with Kevin Timpe (Philosophy) and Derek Schuurman
  12:15 - 13:20 | **open**
- 13:30 - 14:35 | **Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration**
+ 13:30 - 14:35 | **Faith and Learning Cohort: Heidelberg Catehchism and Faith Integration** in HH 320
  14:45 - 15:50 |     
  16:00 - 17:00 | **Faculty Seminar: Hanjin Lee** <br>*Ethics in Mathematics: how to teach it at Christian Universities?* <br>As AI advances, the social practice of mathematics faces new ethical challenges. While more math and statistics students are entering the Big Data and AI sectors, they receive little ethical guidance in their formal education. Compared to the established professional ethics courses in engineering and science, mathematics and statistics departments lack similar curricula. This talk explores the ethical dimensions of mathematics and recent scholarly proposals. I will also propose a course design for ethics in mathematics based on a Christian narrative ethics framework.
- 17:00 - 19:00 | **Dinner** with members of Math/Stat/CS departments (Vos Endowment)
+ 17:00 - 19:00 | **Dinner** with members of Math/Stat/CS departments in NH 276
 : {tbl-colwidths="[20,80]"}
 
 
