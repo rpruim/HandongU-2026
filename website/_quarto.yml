@@ -7,6 +7,8 @@ website:
     left:
       - href: itinerary-calvin.qmd
         text: Calvin Itinerary
+      - href: talks-for-handong.qmd
+        text: Handong U talks
 
 format:
   html:

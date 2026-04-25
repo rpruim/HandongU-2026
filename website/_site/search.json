@@ -110,5 +110,68 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "talks-for-handong.html",
+    "href": "talks-for-handong.html",
+    "title": "Possible Talks",
+    "section": "",
+    "text": "Here are some talk ideas for our visit to Handong University. We don’t entirely understand the audiences at the different sessions, so we are you hoping you can help us select what would be most interesting/relevant for each audience."
+  },
+  {
+    "objectID": "talks-for-handong.html#friday-good-teachers-workshop",
+    "href": "talks-for-handong.html#friday-good-teachers-workshop",
+    "title": "Possible Talks",
+    "section": "Friday: Good Teachers Workshop",
+    "text": "Friday: Good Teachers Workshop\n\nInclusion and belonging in STEM classrooms (joint)\n\nThis is perhaps more broadly interesting than the next one, but we admit that the situation in the US is probably not the same as in Korea.\n\nIntegrated Ethics Labs (joint)\n\nThis would be more targeted towards those interested in ethics in Stat/DS/CS."
+  },
+  {
+    "objectID": "talks-for-handong.html#tuesday-faculty",
+    "href": "talks-for-handong.html#tuesday-faculty",
+    "title": "Possible Talks",
+    "section": "Tuesday: Faculty",
+    "text": "Tuesday: Faculty\n\nRandom Thoughts (Randy)\n\nBased on a paper entitled Randomness and God’s Governance\ncould possibly be moved to the student colloquium\n\nLet’s Talk Ethics (Randy)\n\nThis talk will reflect on some experiences in my classes and among colleagues related to including ethics in what we do and teach. What makes this challenging? What makes it rewarding? What resources exist to help us?\n\nOne of the topics listed for Friday\nHow and why to build community in a statistics classroom (Stacy)\nService Learning in Statistics Courses (Stacy)\nUsing Real Data in Statistics Courses (Stacy)\nLess Volume, More Creativity: Using R in Undergraduate courses (Randy)\n\nHow this principle lead to the development of R packages like mosaic and ggformula and how it can/should guide the use of R (or other software) in courses."
+  },
+  {
+    "objectID": "talks-for-handong.html#tuesday-students",
+    "href": "talks-for-handong.html#tuesday-students",
+    "title": "Possible Talks",
+    "section": "Tuesday: Students",
+    "text": "Tuesday: Students\n\noptions for Mathematics talks (Randy)\n\nCalculus the Way it Might Have Been: An Introduction to Analysis with Infinitesimals\nDomino Arithmetic (An introduction to generating functions)\n\nData for good? Experiences and principles of data consulting as service (Stacy)\nVirtues and cautionary tales for the data analyst (who wishes to prevent technical mistakes that turn results to lies) (Stacy)\n\nsome fun examples of understandable small technical mistakes that can lead to massively wrong conclusions, and maybe how to avoid by humility, teamwork, judgment and attention to detail"
+  },
+  {
+    "objectID": "ethics-in-math.html",
+    "href": "ethics-in-math.html",
+    "title": "Thoughts on Ethics in Mathematics",
+    "section": "",
+    "text": "What is the working definintion of mathematics?\nWhat is “blindness” of mathematical model?"
+  },
+  {
+    "objectID": "ethics-in-math.html#what-is-mathematics",
+    "href": "ethics-in-math.html#what-is-mathematics",
+    "title": "Thoughts on Ethics in Mathematics",
+    "section": "",
+    "text": "What is the working definintion of mathematics?\nWhat is “blindness” of mathematical model?"
+  },
+  {
+    "objectID": "ethics-in-math.html#christian-foundation",
+    "href": "ethics-in-math.html#christian-foundation",
+    "title": "Thoughts on Ethics in Mathematics",
+    "section": "Christian Foundation",
+    "text": "Christian Foundation\n\nIs the track record of the church and ethics a good one? Should we trust communities of Christians to do this well?"
+  },
+  {
+    "objectID": "ethics-in-math.html#case-studies",
+    "href": "ethics-in-math.html#case-studies",
+    "title": "Thoughts on Ethics in Mathematics",
+    "section": "Case Studies",
+    "text": "Case Studies\n\nAre there any case studies that are about mathematics and not applications of mathematics?\nExample: Lottery, insurance, casino – mathematics basically the same (risk, expected value, probability), but reasonable people might conclude different things about participation/legality of these.\nSally Clark Case (Murder, misuse of conditional probability)"
+  },
+  {
+    "objectID": "ethics-in-math.html#what-sort-of-mathethics-mix-are-we-looking-for",
+    "href": "ethics-in-math.html#what-sort-of-mathethics-mix-are-we-looking-for",
+    "title": "Thoughts on Ethics in Mathematics",
+    "section": "What sort of Math/Ethics mix are we looking for?",
+    "text": "What sort of Math/Ethics mix are we looking for?\n\nEthics of mathematics as a discipline?\nEthics of mathematicians as humans doing mathematics?\nEthics of applications of mathematics?\n\nWhat if equivalent mathematics can be applied in more than one way?"
   }
 ]

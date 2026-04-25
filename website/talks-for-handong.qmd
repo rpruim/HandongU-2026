@@ -1,0 +1,55 @@
+---
+title: Possible Talks
+author:
+  - Stacy DeRuiter
+  - Randy Pruim
+date: last-modified
+---
+
+Here are some talk ideas for our visit to Handong University.
+We don't entirely understand the audiences at the different 
+sessions, so we are you hoping you can help us select what would 
+be most interesting/relevant for each audience.
+
+## Friday: Good Teachers Workshop
+
+* *Inclusion and belonging in STEM classrooms* (joint)
+    * This is perhaps more broadly interesting than the next one, 
+    but we admit that the situation in the US is 
+    probably not the same as in Korea.
+* *Integrated Ethics Labs* (joint)
+    * This would be more targeted towards those interested in ethics in Stat/DS/CS.
+
+## Tuesday: Faculty
+
+* *Random Thoughts* (Randy)
+    * Based on a paper entitled *Randomness and God's Governance*
+    * could possibly be moved to the student colloquium
+
+* *Let's Talk Ethics* (Randy)
+    * This talk will reflect on some experiences in my 
+  classes and among colleagues related to including 
+  ethics in what we do and teach. 
+  What makes this challenging? 
+  What makes it rewarding? 
+  What resources exist to help us?
+* One of the topics listed for Friday
+* *How and why to build community in a statistics classroom* (Stacy)
+* *Service Learning in Statistics Courses* (Stacy)
+* *Using Real Data in Statistics Courses* (Stacy)
+* *Less Volume, More Creativity: Using R in Undergraduate courses* (Randy)
+    * How this principle lead to the development of R packages like mosaic and ggformula and how it can/should guide the use of R (or other software) in courses.
+
+## Tuesday: Students
+
+* options for Mathematics talks (Randy)
+    * *Calculus the Way it Might Have Been: An Introduction to Analysis with Infinitesimals*
+    * *Domino Arithmetic* (An introduction to generating functions)
+    
+* *Data for good? Experiences and principles of data consulting as service* (Stacy)
+
+* *Virtues and cautionary tales for the data analyst (who wishes to prevent technical mistakes that turn results to lies)* (Stacy)
+    * some fun examples of understandable small technical mistakes that can lead to 
+    massively wrong conclusions, and maybe how to avoid by humility, teamwork, 
+    judgment and attention to detail
+
