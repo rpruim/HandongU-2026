@@ -130,14 +130,14 @@
     "href": "talks-for-handong.html#tuesday-faculty",
     "title": "Possible Talks",
     "section": "Tuesday: Faculty",
-    "text": "Tuesday: Faculty\n\nRandom Thoughts (Randy)\n\nBased on a paper entitled Randomness and God’s Governance\ncould possibly be moved to the student colloquium\n\nLet’s Talk Ethics (Randy)\n\nThis talk will reflect on some experiences in my classes and among colleagues related to including ethics in what we do and teach. What makes this challenging? What makes it rewarding? What resources exist to help us?\n\nOne of the topics listed for Friday\nHow and why to build community in a statistics classroom (Stacy)\nService Learning in Statistics Courses (Stacy)\nUsing Real Data in Statistics Courses (Stacy)\nLess Volume, More Creativity: Using R in Undergraduate courses (Randy)\n\nHow this principle lead to the development of R packages like mosaic and ggformula and how it can/should guide the use of R (or other software) in courses."
+    "text": "Tuesday: Faculty\n\nRandom Thoughts (Randy)\n\nBased on a paper entitled Randomness and God’s Governance\ncould possibly be moved to the student colloquium\n\nLet’s Talk Ethics (Randy)\n\nThis talk will reflect on some experiences in my classes and among colleagues related to including ethics in what we do and teach. What makes this challenging? What makes it rewarding? What resources exist to help us?\n\nOne of the topics listed for Friday\nHow and why to build community in a statistics classroom (Stacy)\nLess Volume, More Creativity: Using R in Undergraduate courses (Randy)\n\nHow this principle led to the development of R packages like mosaic and ggformula and how it can/should guide the use of R (or other software) in courses.\nperhaps too niche"
   },
   {
     "objectID": "talks-for-handong.html#tuesday-students",
     "href": "talks-for-handong.html#tuesday-students",
     "title": "Possible Talks",
     "section": "Tuesday: Students",
-    "text": "Tuesday: Students\n\noptions for Mathematics talks (Randy)\n\nCalculus the Way it Might Have Been: An Introduction to Analysis with Infinitesimals\nDomino Arithmetic (An introduction to generating functions)\n\nData for good? Experiences and principles of data consulting as service (Stacy)\nVirtues and cautionary tales for the data analyst (who wishes to prevent technical mistakes that turn results to lies) (Stacy)\n\nsome fun examples of understandable small technical mistakes that can lead to massively wrong conclusions, and maybe how to avoid by humility, teamwork, judgment and attention to detail"
+    "text": "Tuesday: Students\n\noptions for mathematics talks (Randy)\n\nCalculus the Way it Might Have Been: An Introduction to Analysis with Infinitesimals\nDomino Arithmetic (An introduction to generating functions)\n\noptions for statistics/data talks (Stacy)\n\nData for good? Experiences and principles of data consulting as service (Stacy)\nVirtues and cautionary tales for the data analyst (who wishes to prevent technical mistakes that turn results to lies) (Stacy)\n\nsome fun examples of understandable small technical mistakes that can lead to massively wrong conclusions, and maybe how to avoid by humility, teamwork, judgment and attention to detail\n\n\nRandom Thoughts (see above))"
   },
   {
     "objectID": "ethics-in-math.html",

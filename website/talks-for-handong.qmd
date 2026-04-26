@@ -35,21 +35,22 @@ be most interesting/relevant for each audience.
   What resources exist to help us?
 * One of the topics listed for Friday
 * *How and why to build community in a statistics classroom* (Stacy)
-* *Service Learning in Statistics Courses* (Stacy)
-* *Using Real Data in Statistics Courses* (Stacy)
 * *Less Volume, More Creativity: Using R in Undergraduate courses* (Randy)
-    * How this principle lead to the development of R packages like mosaic and ggformula and how it can/should guide the use of R (or other software) in courses.
+    * How this principle led to the development of R packages like mosaic and ggformula and how it can/should guide the use of R (or other software) in courses.
+    * perhaps too niche
 
 ## Tuesday: Students
 
-* options for Mathematics talks (Randy)
+* options for mathematics talks (Randy)
     * *Calculus the Way it Might Have Been: An Introduction to Analysis with Infinitesimals*
     * *Domino Arithmetic* (An introduction to generating functions)
     
-* *Data for good? Experiences and principles of data consulting as service* (Stacy)
+* options for statistics/data talks (Stacy)
+    * *Data for good? Experiences and principles of data consulting as service* (Stacy)
 
-* *Virtues and cautionary tales for the data analyst (who wishes to prevent technical mistakes that turn results to lies)* (Stacy)
-    * some fun examples of understandable small technical mistakes that can lead to 
+    * *Virtues and cautionary tales for the data analyst (who wishes to prevent technical mistakes that turn results to lies)* (Stacy)
+        * some fun examples of understandable small technical mistakes that can lead to 
     massively wrong conclusions, and maybe how to avoid by humility, teamwork, 
     judgment and attention to detail
 
+* *Random Thoughts* (see above))
